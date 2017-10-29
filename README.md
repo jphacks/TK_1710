@@ -1,6 +1,14 @@
 # Satomimi
 
+![Satomimi icon](./images/Satomimi-icon.png)
+
+## Movie
+
 [![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
+
+## Screenshot - iOS Application
+
+![Satomimi ios](./images/Satomimi-iOS.png)
 
 ## 製品概要
 ### 耳 × Tech
