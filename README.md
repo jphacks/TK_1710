@@ -1,6 +1,6 @@
 # Satomimi
 
-![Satomimi icon](./images/Satomimi-icon.png)
+![Satomimi icon](./images/Satomimi-icon.png | width=200)
 
 ## Movie
 
