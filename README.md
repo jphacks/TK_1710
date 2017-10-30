@@ -4,7 +4,7 @@
 
 ## Movie
 
-[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/OLCrGWSY-ow)
+[![Product Name](./images/JPhacks_for_video.png)](https://youtu.be/OLCrGWSY-ow)
 
 ## Screenshot - iOS Application
 
