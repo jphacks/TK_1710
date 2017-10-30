@@ -4,7 +4,7 @@
 
 ## Movie
 
-[![Product Name](./images/JPhacks_for_video.png)](https://youtu.be/OLCrGWSY-ow)
+[![Satomimi video](./images/video_thum.png)](https://youtu.be/OLCrGWSY-ow)
 
 ## Screenshot - iOS Application
 
