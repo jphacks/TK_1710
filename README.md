@@ -4,7 +4,7 @@
 
 ## Movie
 
-[![Satomimi video](./images/video_thumnail.png)](https://youtu.be/OLCrGWSY-ow, target="_blank")
+[![Satomimi video](./images/video_thumnail.png)](https://youtu.be/OLCrGWSY-ow)
 
 ## Screenshot - iOS Application
 
