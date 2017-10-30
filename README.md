@@ -1,3 +1,5 @@
+※コードはPrivate repositoryの「TK_1710_1」に上げてあります。
+
 # Satomimi
 
 [![Satomimi video](./images/video_thumnail.png)](https://youtu.be/OLCrGWSY-ow)
