@@ -23,7 +23,8 @@
 ### 製品説明（具体的な製品の説明）
 
 特定の人の声だけを消したり、あるいは、抽出したりできます。
-audio（https://github.com/jphacks/TK_1710/tree/master/audio)に処理結果の音声ファイルを載せています。
+[audio](https://github.com/jphacks/TK_1710/tree/master/audio)
+に処理結果の音声ファイルを載せています。
 
 ### 特徴
 
