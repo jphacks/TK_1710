@@ -1,5 +1,5 @@
 ※コードはPrivate repositoryの「TK_1710_1」に上げてあります。
-./audio/sanma_noise_gain.wav
+
 # Satomimi
 
 [![Satomimi video](./images/video_thumnail.png)](https://youtu.be/OLCrGWSY-ow)
