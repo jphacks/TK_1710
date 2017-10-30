@@ -1,4 +1,4 @@
-※コードはPrivate repositoryの「TK_1710_1」に上げてあります。
+※コードはPrivate repositoryの「[TK_1710_1](https://github.com/jphacks/TK_1710_1)」に上げてあります。
 
 # Satomimi
 Video
