@@ -1,7 +1,7 @@
 ※コードはPrivate repositoryの「TK_1710_1」に上げてあります。
 
 # Satomimi
-
+Video
 [![Satomimi video](./images/video_thumnail.png)](https://youtu.be/OLCrGWSY-ow)
 
 ## Screenshot - iOS Application
